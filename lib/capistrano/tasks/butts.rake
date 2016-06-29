@@ -1,6 +1,6 @@
 namespace :deploy do
   before :starting, :butts do
-    return unless [:production, :testing, :prod].include? fetch(:stage)
+    return unless [:production, :prod].include? fetch(:stage)
     run_locally do
       info 'Hold on to your butts...'
       begin
