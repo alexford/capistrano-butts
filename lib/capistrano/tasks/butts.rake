@@ -8,7 +8,6 @@ namespace :deploy do
       rescue
         # welp
       end
-      exit
     end
   end
 end
