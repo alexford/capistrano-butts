@@ -2,7 +2,7 @@
 
 ![Hold on to your butts](butts.png)
 
-Reminds you to hold on to your butts before every production deploy.
+Reminds you to hold on to your butts before every production deploy. This only works on OS X, because it has `afplay`.
 
 ## Installation
 
